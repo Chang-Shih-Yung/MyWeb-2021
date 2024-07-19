@@ -1,0 +1,20 @@
+{
+  "name": "myweb-2021",
+  "version": "1.0.0",
+  "homepage": "https://chang-shih-yung.github.io/MyWeb-2021/",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "vite": "^5.3.4"
+  }
+}
